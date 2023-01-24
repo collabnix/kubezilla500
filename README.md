@@ -13,3 +13,18 @@ It's great opportunity for community members to learn, collaborate and contribut
 | :-------: | :------------: | :----------------: |
 | Rehearsal | 21st Feb 2023 | 11:00 AM to 1:00 PM |
 | Live  | 27th Feb 2023 | 2:00 PM to 4:00 PM |
+
+
+## What's mininum requirements of a node?
+
+Nodes can either be physical, virtual, IoT or Desktop system.
+  
+
+- 2 GB or more of RAM per machine (any less will leave little room for your apps)
+- 2 CPUs or more
+- Full network connectivity between all machines in the cluster (public or private network is fine)
+- Unique hostname, MAC address, and product_uuid for every node. See here for more details.
+- Certain ports are open on your machines. See here for more details.
+- Swap disabled. You MUST disable swap in order for the kubelet to work properly.
+- TCP	Inbound	10250	open for Kubelet API	
+- TCP	Inbound	30000-32767 open for NodePort Services
