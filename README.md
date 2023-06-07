@@ -10,12 +10,12 @@ It's great opportunity for community members to learn, collaborate and contribut
 
 ## When? 
 
-> We are targeting 21st Feb starting 2:00 PM till 4:00 PM for Kubezilla. 
+> We are targeting 8th July starting 9:00 AM till 5:00 PM for Kubezilla. 
 
 | Activity  |      Date      |        Time        |
 | :-------: | :------------: | :----------------: |
-| Rehearsal | 21st Feb 2023 | 11:00 AM to 1:00 PM |
-| Live  | 27th Feb 2023 | 2:00 PM to 4:00 PM |
+| Rehearsal | 5th July 2023 | 11:00 AM to 1:00 PM |
+| Live  | 8th Jul 2023 | 9:00 AM to 4:00 PM |
 
 
 ## What's mininum requirements of a node?
