@@ -12,6 +12,37 @@ We are aiming to build a largest Kubernetes Community Cluster and target to show
 
 It's great opportunity for community members to learn, collaborate and contribute around Kubernetes and related technologies. As a team, we will learn how Kubernetes cluster is setup, how apps gets deployed over Cloud and what kind of microservices can be run possibly on these HUGE cluster nodes.Community members will learn how monitoring tools like Prometheus and Grafana can be deployed and fetch time-series metrics out of these HUGE cluster of nodes. In nutshell, it's a 1 day effort which will let every single individual to learn Kubernetes and understand its scalability.
 
+## How it works?
+
+We invite contributors to help us build the largest Kubernetes Community Cluster by providing their FREE cloud instances or Raspberry Pi devices. Your contribution will help showcase the scalability and power of Kubernetes during the Docker Bangalore Meetup event.
+
+**Node Specification:** XGB of RAM with X vCore. Please note that 512MB will not be enough for our testing requirements.
+
+**Contribution Options:**
+
+1. **Cloud Instance:** If you have a FREE cloud instance from AWS, Azure, GCP, or DigitalOcean, you can contribute it to our community cluster. By connecting your cloud instance to our cluster, you'll be part of this exciting initiative. 
+
+2. **Raspberry Pi:** If you are familiar with connecting Raspberry Pi devices to a Kubernetes cluster, you can contribute your Raspberry Pi to our cluster. Your expertise will be invaluable in expanding the reach of our community project.
+
+**How to Contribute:**
+
+1. Fork this repository to your GitHub account.
+2. Create a new branch with a descriptive name.
+3. Add your cloud instance or Raspberry Pi contribution to the respective section in the README.
+4. Submit a pull request to merge your changes into the main repository.
+
+**Contribution Guidelines:**
+
+- Please provide the specifications of your cloud instance or Raspberry Pi, including the RAM and vCore details.
+- Include your full name, Twitter handle, and company name in the pull request description.
+- Ensure that your contribution meets the node specification mentioned above.
+
+We appreciate your support and contributions to make this project a success. Let's showcase the capabilities of Kubernetes together!
+
+For any questions or assistance, please feel free to reach out to us. Thank you!
+
+
+
 ## When? 
 
 > We are targeting 8th July starting 9:00 AM till 5:00 PM for Kubezilla. 
