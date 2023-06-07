@@ -1,5 +1,8 @@
 # Kubezilla500 - Building the largest Kubernetes Community Cluster
 
+![image](https://github.com/collabnix/kubezilla500/assets/34368930/f0ea1755-2793-48ff-80f9-79a8a7e4cf4c)
+
+
 
 ## Why are we doing this?
 
