@@ -47,7 +47,7 @@ Nodes can either be physical, virtual, IoT or Desktop system.
 
 ## List of application to be deployed
 
-| Name         |                Submitter           |   Comments   |
+| Name  of Submitter      |                Tool Name           |   Comments   |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | 
 | [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Kubeview]([https://kubelabs.collabnix.com](https://github.com/benc-uk/kubeview))              |                    -                    |   
 
