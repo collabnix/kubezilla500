@@ -20,6 +20,14 @@ It's great opportunity for community members to learn, collaborate and contribut
 | Live  | 8th Jul 2023 | 9:00 AM to 4:00 PM |
 
 
+## Contributors
+
+
+| Name                                                                                                                                                       |                Company                | Number of Nodes<br>Expected to Contribute |             Machine Type             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :---------------------------------------: | :----------------------------------: |
+| [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Collabnix](https://kubelabs.collabnix.com)              |                    10                     |                                      |
+
+
 ## What's mininum requirements of a node?
 
 Nodes can either be physical, virtual, IoT or Desktop system.
