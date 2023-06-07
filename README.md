@@ -1,4 +1,4 @@
-# kubezilla500
+# Kubezilla500 - Building the largest Kubernetes Community Cluster
 
 
 ## Why are we doing this?
