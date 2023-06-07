@@ -2,6 +2,8 @@
 
 ![image](https://github.com/collabnix/kubezilla500/assets/34368930/f0ea1755-2793-48ff-80f9-79a8a7e4cf4c)
 
+We are aiming to build a largest Kubernetes Community Cluster and target to showcase it during Docker Bangalore Meetup event.
+
 
 
 ## Why are we doing this?
