@@ -1,8 +1,10 @@
 # Kubezilla500 - Building the largest Kubernetes Community Cluster
 
-![image](https://github.com/collabnix/kubezilla500/assets/34368930/f0ea1755-2793-48ff-80f9-79a8a7e4cf4c)
 
 We are aiming to build a largest Kubernetes Community Cluster and target to showcase it during Docker Bangalore Meetup event.
+
+![image](https://github.com/collabnix/kubezilla500/assets/34368930/f0ea1755-2793-48ff-80f9-79a8a7e4cf4c)
+
 
 
 
@@ -41,3 +43,11 @@ Nodes can either be physical, virtual, IoT or Desktop system.
 - Swap disabled. You MUST disable swap in order for the kubelet to work properly.
 - TCP	Inbound	10250	open for Kubelet API	
 - TCP	Inbound	30000-32767 open for NodePort Services
+
+
+## List of application to be deployed
+
+| Name         |                Submitter           |   Comments   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | 
+| [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Kubeview]([https://kubelabs.collabnix.com](https://github.com/benc-uk/kubeview))              |                    -                    |   
+
