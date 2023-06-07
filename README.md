@@ -12,6 +12,8 @@ We are aiming to build a largest Kubernetes Community Cluster and target to show
 
 It's great opportunity for community members to learn, collaborate and contribute around Kubernetes and related technologies. As a team, we will learn how Kubernetes cluster is setup, how apps gets deployed over Cloud and what kind of microservices can be run possibly on these HUGE cluster nodes.Community members will learn how monitoring tools like Prometheus and Grafana can be deployed and fetch time-series metrics out of these HUGE cluster of nodes. In nutshell, it's a 1 day effort which will let every single individual to learn Kubernetes and understand its scalability.
 
+**We are looking out for Sponsors. [Click here](https://github.com/collabnix/kubezilla500/blob/main/sponsorship.md)***
+
 ## How it works?
 
 We invite contributors to help us build the largest Kubernetes Community Cluster by providing their FREE cloud instances or Raspberry Pi devices. Your contribution will help showcase the scalability and power of Kubernetes during the Docker Bangalore Meetup event.
