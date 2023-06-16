@@ -6,8 +6,13 @@ Kubezilla is an ambitious project that aims to provide community members with an
 
 ## Sponsorship Acknowledgment
 
-<img src="https://github.com/collabnix/kubezilla500/blob/main/logo__on-white.svg" alt="Logo" width="200"/>
 
+
+<div align="center">
+  <img src="https://github.com/collabnix/kubezilla500/blob/main/logo__on-white.svg" alt="Logo" width="200"/>
+</div>
+
+<br>
 
 
 We would like to extend our deepest gratitude to [Vultr](https://vultr.com) for their generous sponsorship of $750 credits towards the setup of our Kubernetes Cluster. Their support has been instrumental in enabling us to create a robust and scalable infrastructure to power our Kubezilla community cluster.
