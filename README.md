@@ -75,7 +75,7 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | Name                                                                                                                                                       |                Company                | Number of Nodes<br>Expected to Contribute |             Machine Type             |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :---------------------------------------: | :----------------------------------: |
 | [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Collabnix](https://kubelabs.collabnix.com)              |                    10                     |                                      |
-
+| [@anmolnagpal](https://github.com/anmolnagpal)                                                                                                             |               [CloudDrove](https://github.com/clouddrove)              |                    50                     |                                      |
 
 ## What's mininum requirements of a node?
 
