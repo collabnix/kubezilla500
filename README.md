@@ -113,6 +113,7 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 23 | Harsha Vardhan            |                              | Cloud Instance	| 1          |
 | 24 | Sanaz Baniasadi           | 		                          | Cloud Instance	| 50+        |
 | 25 | Rajendra G                |	Self                        | Laptop          |	1          |
+| 26 | Raseel Bhagat             | Zymr                         | Cloud Instance  | 5+         |
 
 ## What's mininum requirements of a node?
 
