@@ -12,6 +12,10 @@ Kubezilla is an ambitious project that aims to provide community members with an
   <img src="https://github.com/collabnix/kubezilla500/blob/main/logo__on-white.svg" alt="Logo" width="200"/>
 </div>
 
+<div align="center">
+  <img src="https://github.com/collabnix/kubezilla500/blob/main/cloud-drove-logo.jpg" alt="Logo" width="200"/>
+</div>
+
 <br>
 
 
