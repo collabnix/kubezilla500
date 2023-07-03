@@ -90,6 +90,8 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :---------------------------------------: | :----------------------------------: |
 | [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Collabnix](https://kubelabs.collabnix.com)              |                    10                     |                                      |
 | [@anmolnagpal](https://github.com/anmolnagpal)                                                                                                             |               [CloudDrove](https://github.com/clouddrove)              |                    50                     |                                      |
+| [@shubhendu](https://twitter.com/myselfshubhendu)                                                                                                             |               [Hugs4bugs](https://hugs4bugs.me)              |                    3                     |                                      |                   
+
 
 ## What's mininum requirements of a node?
 
