@@ -105,6 +105,12 @@ Nodes can either be physical, virtual, IoT or Desktop system.
 - TCP	Inbound	10250	open for Kubelet API	
 - TCP	Inbound	30000-32767 open for NodePort Services
 
+## Ports required to be open on Worker Nodes
+
+```
+TCP     10250       Kubelet API
+TCP     10255       Read-Only Kubelet API
+```
 
 ## List of application to be deployed
 
