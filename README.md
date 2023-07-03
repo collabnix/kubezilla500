@@ -113,6 +113,32 @@ Nodes can either be physical, virtual, IoT or Desktop system.
 | [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Kubeview]([https://kubelabs.collabnix.com](https://github.com/benc-uk/kubeview))              |                    -                    |   
 
 
+## FAQs
+
+## 1. How shall I contribute?
+
+Assuming that you have Docker installed in your system, you can run the below command to get your node connected to our Cluster:
+
+```
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker
+```
+
+## 2. Do I need to pay?
+
+No, we recommend you to use Free Tier so that you don't need to pay anything from your pocket.
+
+## 3. Can I use my AWS/GCP/Azure Credits to get the nodes added?
+
+Yes, you can use those free credits. It's a matter of choice
+
+## 4. How many maximum nodes can I contribute?
+
+There is no restriction. You can add as many nodes as you can.
+
+## 5. I have added nodes. How can I see the nodes added?
+
+We are currently working on a Visualization tool to allow you to visualize the overall Kubernetes Cluster. Stay tuned.
+
 ## References
 
 - [List of curated Kubernetes Tools](https://kubetools.collabnix.com)
