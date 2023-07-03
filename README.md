@@ -19,7 +19,7 @@ Kubezilla is an ambitious project that aims to provide community members with an
 <br>
 
 
-We would like to extend our deepest gratitude to [Vultr](https://vultr.com) and [Cloud Drove](https://clouddrove.com) for their generous sponsorship of $750 credits towards the setup of our Kubernetes Cluster. Their support has been instrumental in enabling us to create a robust and scalable infrastructure to power our Kubezilla community cluster.
+We would like to extend our deepest gratitude to [Vultr](https://vultr.com) and [Cloud Drove](https://clouddrove.com) for their generous sponsorship towards the setup of our Kubernetes Cluster. Their support has been instrumental in enabling us to create a robust and scalable infrastructure to power our Kubezilla community cluster.
 
 
 
