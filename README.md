@@ -110,8 +110,8 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 20 | Rutwik Kinagi             | Infosys Limited              | Laptop          | 5+         |
 | 21 | Yashvi Kothari            | NA                           | Cloud Instance  | 1          |
 | 22 | Gaganpreet Singh          | VMware                       | Cloud Instance  | 1          |
-
-
+| 23 | Harsha Vardhan            |                              | Cloud Instance	| 1          |
+| 24 | Sanaz Baniasadi           | 		                          | Cloud Instance	| 50+        |
 
 ## What's mininum requirements of a node?
 
