@@ -137,9 +137,11 @@ TCP     10255       Read-Only Kubelet API
 
 ## List of application to be deployed
 
-| Name  of Submitter      |                Tool Name           |   Comments   |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------: | :-----------------------------------: | 
-| [@ajeetsraina](https://twitter.com/ajeetsraina)                                                                                                            |               [Kubeview]([https://kubelabs.collabnix.com](https://github.com/benc-uk/kubeview))              |                    -                    |   
+| Name                      | Application Name       | 
+|---------------------------|------------------------------|
+| Ajeet Singh Raina         | Kubeview                     |
+| Anmol                     | Grafana                      |
+
 
 
 ## FAQs
