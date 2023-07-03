@@ -132,6 +132,7 @@ sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kube
 ## 2. Do I need to pay?
 
 No, we recommend you to use Free Tier so that you don't need to pay anything from your pocket.
+You can even use [PWD](https://play-with-docker.com) or [PWK](https://play-with-k8s.com) instance(free) but do note that these instances are usually operational only for 4 hours time.
 
 ## 3. Can I use my AWS/GCP/Azure Credits to get the nodes added?
 
@@ -140,6 +141,13 @@ Yes, you can use those free credits. It's a matter of choice
 ## 4. How many maximum nodes can I contribute?
 
 There is no restriction. You can add as many nodes as you can.
+
+## 5. Which ports are required to be open on worker nodes?
+
+```
+TCP     10250       Kubelet API
+TCP     10255       Read-Only Kubelet API
+```
 
 ## 5. I have added nodes. How can I see the nodes added?
 
