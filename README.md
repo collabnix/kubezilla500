@@ -85,7 +85,7 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 
 ## Contributors
 
-                                     | 
+                                 
 | Name                      | Company                      | Node Type       | Node Count |
 |---------------------------|------------------------------|-----------------|------------|
 | Ajeet Singh Raina         | Docker                       | Cloud           | 10+        |
