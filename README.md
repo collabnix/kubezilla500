@@ -1,6 +1,10 @@
 # Kubezilla500 - Building the largest Kubernetes Community Cluster
 
 
+<div align="center">
+  <img src="https://github.com/collabnix/kubezilla500/blob/main/kubezilla500.png" alt="Logo" width="300"/>
+</div>
+
 Kubezilla is an ambitious project that aims to provide community members with an immersive learning experience in Kubernetes and related technologies. By building the largest Kubernetes Community Cluster, we aim to demonstrate the scalability and power of Kubernetes, while fostering collaboration and knowledge sharing within the community.We are aiming to build a largest Kubernetes Community Cluster and target to showcase it during Docker Bangalore Meetup event.
 
 
