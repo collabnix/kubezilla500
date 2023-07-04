@@ -114,6 +114,7 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 24 | Sanaz Baniasadi           | 		                          | Cloud Instance	| 50+        |
 | 25 | Rajendra G                |	Self                        | Laptop          |	1          |
 | 26 | Raseel Bhagat             | Zymr                         | Cloud Instance  | 5+         |
+| 27 | Unni P                    | Self                         | Laptop          | 5+         | 
 
 ## What's mininum requirements of a node?
 
