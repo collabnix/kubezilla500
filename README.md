@@ -215,7 +215,7 @@ TCP     10250       Kubelet API
 TCP     10255       Read-Only Kubelet API
 ```
 
-## 5. I have added nodes. How can I see the nodes added?
+## 6. I have added nodes. How can I see the nodes added?
 
 We are currently working on a Visualization tool to allow you to visualize the overall Kubernetes Cluster. Stay tuned.
 
