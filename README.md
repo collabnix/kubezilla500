@@ -83,6 +83,7 @@ sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kube
 
 ```
 sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=iot --label name=kubezilla
+```
 
 **Node Specification:** XGB of RAM with X vCore. Please note that 512MB will not be enough for our testing requirements.
 
