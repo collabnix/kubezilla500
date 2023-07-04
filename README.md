@@ -40,11 +40,49 @@ It's great opportunity for community members to learn, collaborate and contribut
 
 We invite contributors to help us build the largest Kubernetes Community Cluster by providing their FREE cloud instances or Raspberry Pi devices. Your contribution will help showcase the scalability and power of Kubernetes during the Docker Bangalore Meetup event.
 
+## How to add my node?
+
 You need to run the following Docker command to join your worker nodes:
 
+## For Cloud Instance
+
 ```
-sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=cloud --label name=kubezilla
 ```
+
+## For adding Laptop
+
+```
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=laptop --label name=kubezilla
+```
+
+## For adding Docker Desktop
+
+```
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=dd --label name=kubezilla
+```
+
+## For PWD
+
+We suggest you to add only one instance per session so that there is not much pressure on the overall platform
+
+```
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=pwd --label name=kubezilla
+```
+
+## For PWK
+
+We suggest you to add only one instance per session so that there is not much pressure on the overall platform
+
+```
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=pwk --label name=kubezilla
+```
+
+## For RaspberryPi/Jetson Nano
+
+
+```
+sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=iot --label name=kubezilla
 
 **Node Specification:** XGB of RAM with X vCore. Please note that 512MB will not be enough for our testing requirements.
 
