@@ -155,6 +155,7 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 26 | Raseel Bhagat             | Zymr                         | Cloud Instance  | 5+         |
 | 27 | Unni P                    | Self                         | Laptop          | 5+         | 
 | 28 | Sangam Biradar             | Deepfence                   | Cloud Instance  | 10+        |
+| 29 | Geno Thomas               | IBM                          | Cloud Instance  | 3          |
 
 
 ## What's mininum requirements of a node?
