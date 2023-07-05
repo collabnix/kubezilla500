@@ -44,13 +44,13 @@ We invite contributors to help us build the largest Kubernetes Community Cluster
 
 You need to run the following Docker command to join your worker nodes:
 
-## For Cloud Instance
+## For Cloud Instance [Ubuntu 20.04 LTS]
 
 ```
 sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=cloud --label name=kubezilla
 ```
 
-## For adding Laptop
+## For adding Laptop [Ubuntu 20.04 LTS]
 
 ```
 sudo docker run -d --privileged --restart=unless-stopped --net=host -v /etc/kubernetes:/etc/kubernetes -v /var/run:/var/run rancher/rancher-agent:v2.4.18 --server https://kubezilla.collabnix.com --token wlcj8nwx8ns92n69qbnk9f4kkmc7jkswcbgzpsm9hc4k6dxwjxdm8c --worker --label node=laptop --label name=kubezilla
@@ -164,6 +164,7 @@ Nodes can either be physical, virtual, IoT or Desktop system.
 
 - 2 GB or more of RAM per machine (any less will leave little room for your apps)
 - 2 CPUs or more
+- Ubuntu 20.04 LTS as operating system
 - Full network connectivity between all machines in the cluster (public or private network is fine)
 - Unique hostname, MAC address, and product_uuid for every node. See here for more details.
 - Certain ports are open on your machines. See here for more details.
@@ -220,6 +221,10 @@ TCP     10255       Read-Only Kubelet API
 ## 6. I have added nodes. How can I see the nodes added?
 
 We are currently working on a Visualization tool to allow you to visualize the overall Kubernetes Cluster. Stay tuned.
+
+## 7. Which OS needs to use for setting up worker nodes?
+
+We recommend you to use Ubuntu 20.04 LTS as operating system because of cgroup driver issue.
 
 ## References
 
