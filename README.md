@@ -157,6 +157,21 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 28 | Sangam Biradar             | Deepfence                   | Cloud Instance  | 10+        |
 | 29 | Geno Thomas               | IBM                          | Cloud Instance  | 3          |
 | 30 | Karan Singh               | Scogo                        | Bare Metal      | 1          |
+| 31 | Sajid Ali                 | IMS                          | Cloud Instance  | 1          |
+| 32 | Saurav Kaveri             | Self                         | Cloud Instance  | 1          |   
+| 33 | Marvellous Ezemba         | Self                         | Cloud Instance  | 1          |   
+| 34 | Raseel Bhagat             | Zymer                        | Cloud Instance  | 5+         |   
+| 35 | Zachary Gonzales          | Zargo                        | Laptop          | 1          |   
+| 36 | Vijay Reddy               | Self                         | Laptop          | 1          |   
+| 37 | Vignesh k                 | Blackstraw                   | Laptop          | 1          |   
+| 38 | haruna rashid             | worketyamo                   | Laptop          | 1          |   
+| 39 | Varun Gopal               | Oracle                       | Laptop          | 1          |   
+| 40 | Samuel Bartels            |Self                          | Cloud Instance  | 5+         |   
+| 41 | Ajay                      | TCS                          | Laptop          | 50+        |   
+| 42 | Ashutosh Mahajan          | Cloud Drove                  | Laptop          | 1          |   
+| 43 | Dewan Shakil Akhtar       | Scogo                        | Laptop          | 1          |   
+| 44 | Dipal parmar              | Spekit                       | Laptop          | 1          |   
+
 
 ## What's mininum requirements of a node?
 
