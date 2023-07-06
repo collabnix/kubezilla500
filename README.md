@@ -156,7 +156,7 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 27 | Unni P                    | Self                         | Laptop          | 5+         | 
 | 28 | Sangam Biradar             | Deepfence                   | Cloud Instance  | 10+        |
 | 29 | Geno Thomas               | IBM                          | Cloud Instance  | 3          |
-
+| 30 | Karan Singh               | Scogo                        | Bare Metal      | 1          |
 
 ## What's mininum requirements of a node?
 
