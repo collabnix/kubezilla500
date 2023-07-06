@@ -170,7 +170,8 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 41 | Ajay                      | TCS                          | Laptop          | 50+        |   
 | 42 | Ashutosh Mahajan          | Cloud Drove                  | Laptop          | 1          |   
 | 43 | Dewan Shakil Akhtar       | Scogo                        | Laptop          | 1          |   
-| 44 | Dipal parmar              | Spekit                       | Laptop          | 1          |   
+| 44 | Dipal parmar              | Spekit                       | Laptop          | 1          | 
+|  |              | Total                      |           |     287      | 
 
 
 ## What's mininum requirements of a node?
