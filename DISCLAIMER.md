@@ -21,4 +21,4 @@ Participating in the project to build the largest Kubernetes Community Cluster e
 
 By participating in this project, you acknowledge and accept that the security of the Kubernetes Community Cluster is a shared responsibility. Exercise due diligence, adhere to security best practices, and promptly report any identified vulnerabilities or security concerns to the project organizers.
 
-Note: This security disclaimer serves as a starting point and should be tailored to your specific project and organizational requirements. It is essential to consult with your organization's security and legal teams to ensure compliance with applicable policies, regulations, and standards.
+
