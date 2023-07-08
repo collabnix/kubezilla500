@@ -171,8 +171,10 @@ For any questions or assistance, please feel free to reach out to us. Thank you!
 | 42 | Ashutosh Mahajan          | Cloud Drove                  | Laptop          | 1          |   
 | 43 | Dewan Shakil Akhtar       | Scogo                        | Laptop          | 1          |   
 | 44 | Dipal parmar              | Spekit                       | Laptop          | 1          | 
-| 45 | Sujay Pillai              | Self                         | Cloud Instance  | 5          | 
-|  |              | Total                      |           |     292      | 
+| 45 | Swaroop Chirayinkil       | Interplai                    | Cloud Instance  | 1          |
+| 46 | Sujay Pillai              | Self                         | Cloud Instance  | 5          | 
+|  |              | Total                      |           |     302      | 
+
 
 
 ## What's mininum requirements of a node?
